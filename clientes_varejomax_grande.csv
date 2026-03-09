@@ -1,0 +1,201 @@
+id_cliente,nome,cidade,regiao
+1,Cliente_1,Recife,Nordeste
+2,Cliente_2,Porto Alegre,Sul
+3,Cliente_3,Salvador,Nordeste
+4,Cliente_4,Recife,Nordeste
+5,Cliente_5,Curitiba,Sul
+6,Cliente_6,Fortaleza,Nordeste
+7,Cliente_7,Salvador,Nordeste
+8,Cliente_8,Salvador,Nordeste
+9,Cliente_9,Recife,Nordeste
+10,Cliente_10,Rio de Janeiro,Sudeste
+11,Cliente_11,Curitiba,Sul
+12,Cliente_12,Recife,Nordeste
+13,Cliente_13,Curitiba,Sul
+14,Cliente_14,Curitiba,Sul
+15,Cliente_15,Fortaleza,Nordeste
+16,Cliente_16,Salvador,Nordeste
+17,Cliente_17,Porto Alegre,Sul
+18,Cliente_18,Fortaleza,Nordeste
+19,Cliente_19,Fortaleza,Nordeste
+20,Cliente_20,Curitiba,Sul
+21,Cliente_21,Belo Horizonte,Sudeste
+22,Cliente_22,Salvador,Nordeste
+23,Cliente_23,Rio de Janeiro,Sudeste
+24,Cliente_24,Fortaleza,Nordeste
+25,Cliente_25,Porto Alegre,Sul
+26,Cliente_26,Belo Horizonte,Sudeste
+27,Cliente_27,Belo Horizonte,Sudeste
+28,Cliente_28,Rio de Janeiro,Sudeste
+29,Cliente_29,Fortaleza,Nordeste
+30,Cliente_30,Porto Alegre,Sul
+31,Cliente_31,Salvador,Nordeste
+32,Cliente_32,São Paulo,Sudeste
+33,Cliente_33,Porto Alegre,Sul
+34,Cliente_34,Rio de Janeiro,Sudeste
+35,Cliente_35,Belo Horizonte,Sudeste
+36,Cliente_36,Salvador,Nordeste
+37,Cliente_37,Porto Alegre,Sul
+38,Cliente_38,São Paulo,Sudeste
+39,Cliente_39,São Paulo,Sudeste
+40,Cliente_40,Curitiba,Sul
+41,Cliente_41,Curitiba,Sul
+42,Cliente_42,Recife,Nordeste
+43,Cliente_43,Rio de Janeiro,Sudeste
+44,Cliente_44,Fortaleza,Nordeste
+45,Cliente_45,Porto Alegre,Sul
+46,Cliente_46,Porto Alegre,Sul
+47,Cliente_47,Fortaleza,Nordeste
+48,Cliente_48,Recife,Nordeste
+49,Cliente_49,Belo Horizonte,Sudeste
+50,Cliente_50,Belo Horizonte,Sudeste
+51,Cliente_51,Recife,Nordeste
+52,Cliente_52,Belo Horizonte,Sudeste
+53,Cliente_53,Curitiba,Sul
+54,Cliente_54,Porto Alegre,Sul
+55,Cliente_55,Recife,Nordeste
+56,Cliente_56,Porto Alegre,Sul
+57,Cliente_57,Fortaleza,Nordeste
+58,Cliente_58,São Paulo,Sudeste
+59,Cliente_59,Curitiba,Sul
+60,Cliente_60,Salvador,Nordeste
+61,Cliente_61,Curitiba,Sul
+62,Cliente_62,Recife,Nordeste
+63,Cliente_63,Salvador,Nordeste
+64,Cliente_64,São Paulo,Sudeste
+65,Cliente_65,Recife,Nordeste
+66,Cliente_66,Rio de Janeiro,Sudeste
+67,Cliente_67,Porto Alegre,Sul
+68,Cliente_68,São Paulo,Sudeste
+69,Cliente_69,Porto Alegre,Sul
+70,Cliente_70,Belo Horizonte,Sudeste
+71,Cliente_71,Rio de Janeiro,Sudeste
+72,Cliente_72,Rio de Janeiro,Sudeste
+73,Cliente_73,São Paulo,Sudeste
+74,Cliente_74,Rio de Janeiro,Sudeste
+75,Cliente_75,Salvador,Nordeste
+76,Cliente_76,Rio de Janeiro,Sudeste
+77,Cliente_77,Porto Alegre,Sul
+78,Cliente_78,Porto Alegre,Sul
+79,Cliente_79,Recife,Nordeste
+80,Cliente_80,Porto Alegre,Sul
+81,Cliente_81,Recife,Nordeste
+82,Cliente_82,Porto Alegre,Sul
+83,Cliente_83,Salvador,Nordeste
+84,Cliente_84,Fortaleza,Nordeste
+85,Cliente_85,Recife,Nordeste
+86,Cliente_86,Curitiba,Sul
+87,Cliente_87,Belo Horizonte,Sudeste
+88,Cliente_88,São Paulo,Sudeste
+89,Cliente_89,Porto Alegre,Sul
+90,Cliente_90,Rio de Janeiro,Sudeste
+91,Cliente_91,Fortaleza,Nordeste
+92,Cliente_92,Porto Alegre,Sul
+93,Cliente_93,Rio de Janeiro,Sudeste
+94,Cliente_94,Belo Horizonte,Sudeste
+95,Cliente_95,Belo Horizonte,Sudeste
+96,Cliente_96,Belo Horizonte,Sudeste
+97,Cliente_97,Rio de Janeiro,Sudeste
+98,Cliente_98,Porto Alegre,Sul
+99,Cliente_99,Belo Horizonte,Sudeste
+100,Cliente_100,Salvador,Nordeste
+101,Cliente_101,Recife,Nordeste
+102,Cliente_102,Rio de Janeiro,Sudeste
+103,Cliente_103,Rio de Janeiro,Sudeste
+104,Cliente_104,Porto Alegre,Sul
+105,Cliente_105,Rio de Janeiro,Sudeste
+106,Cliente_106,Rio de Janeiro,Sudeste
+107,Cliente_107,Belo Horizonte,Sudeste
+108,Cliente_108,Porto Alegre,Sul
+109,Cliente_109,Belo Horizonte,Sudeste
+110,Cliente_110,Recife,Nordeste
+111,Cliente_111,Fortaleza,Nordeste
+112,Cliente_112,Recife,Nordeste
+113,Cliente_113,Fortaleza,Nordeste
+114,Cliente_114,Belo Horizonte,Sudeste
+115,Cliente_115,Recife,Nordeste
+116,Cliente_116,Porto Alegre,Sul
+117,Cliente_117,São Paulo,Sudeste
+118,Cliente_118,Belo Horizonte,Sudeste
+119,Cliente_119,Fortaleza,Nordeste
+120,Cliente_120,Salvador,Nordeste
+121,Cliente_121,Fortaleza,Nordeste
+122,Cliente_122,Salvador,Nordeste
+123,Cliente_123,Rio de Janeiro,Sudeste
+124,Cliente_124,Recife,Nordeste
+125,Cliente_125,Salvador,Nordeste
+126,Cliente_126,Fortaleza,Nordeste
+127,Cliente_127,Rio de Janeiro,Sudeste
+128,Cliente_128,São Paulo,Sudeste
+129,Cliente_129,Porto Alegre,Sul
+130,Cliente_130,Porto Alegre,Sul
+131,Cliente_131,Porto Alegre,Sul
+132,Cliente_132,Salvador,Nordeste
+133,Cliente_133,São Paulo,Sudeste
+134,Cliente_134,Salvador,Nordeste
+135,Cliente_135,Recife,Nordeste
+136,Cliente_136,Salvador,Nordeste
+137,Cliente_137,São Paulo,Sudeste
+138,Cliente_138,São Paulo,Sudeste
+139,Cliente_139,Recife,Nordeste
+140,Cliente_140,São Paulo,Sudeste
+141,Cliente_141,Fortaleza,Nordeste
+142,Cliente_142,São Paulo,Sudeste
+143,Cliente_143,Porto Alegre,Sul
+144,Cliente_144,Fortaleza,Nordeste
+145,Cliente_145,Fortaleza,Nordeste
+146,Cliente_146,Recife,Nordeste
+147,Cliente_147,Curitiba,Sul
+148,Cliente_148,Curitiba,Sul
+149,Cliente_149,São Paulo,Sudeste
+150,Cliente_150,Fortaleza,Nordeste
+151,Cliente_151,Curitiba,Sul
+152,Cliente_152,Curitiba,Sul
+153,Cliente_153,São Paulo,Sudeste
+154,Cliente_154,Curitiba,Sul
+155,Cliente_155,Salvador,Nordeste
+156,Cliente_156,Rio de Janeiro,Sudeste
+157,Cliente_157,Recife,Nordeste
+158,Cliente_158,Rio de Janeiro,Sudeste
+159,Cliente_159,São Paulo,Sudeste
+160,Cliente_160,Porto Alegre,Sul
+161,Cliente_161,Recife,Nordeste
+162,Cliente_162,São Paulo,Sudeste
+163,Cliente_163,Fortaleza,Nordeste
+164,Cliente_164,Porto Alegre,Sul
+165,Cliente_165,Rio de Janeiro,Sudeste
+166,Cliente_166,São Paulo,Sudeste
+167,Cliente_167,Fortaleza,Nordeste
+168,Cliente_168,Recife,Nordeste
+169,Cliente_169,Recife,Nordeste
+170,Cliente_170,Belo Horizonte,Sudeste
+171,Cliente_171,Fortaleza,Nordeste
+172,Cliente_172,Salvador,Nordeste
+173,Cliente_173,Curitiba,Sul
+174,Cliente_174,Porto Alegre,Sul
+175,Cliente_175,Fortaleza,Nordeste
+176,Cliente_176,Belo Horizonte,Sudeste
+177,Cliente_177,Curitiba,Sul
+178,Cliente_178,Curitiba,Sul
+179,Cliente_179,São Paulo,Sudeste
+180,Cliente_180,Curitiba,Sul
+181,Cliente_181,Salvador,Nordeste
+182,Cliente_182,Recife,Nordeste
+183,Cliente_183,Belo Horizonte,Sudeste
+184,Cliente_184,Curitiba,Sul
+185,Cliente_185,São Paulo,Sudeste
+186,Cliente_186,Salvador,Nordeste
+187,Cliente_187,Rio de Janeiro,Sudeste
+188,Cliente_188,Recife,Nordeste
+189,Cliente_189,Recife,Nordeste
+190,Cliente_190,Belo Horizonte,Sudeste
+191,Cliente_191,Recife,Nordeste
+192,Cliente_192,Curitiba,Sul
+193,Cliente_193,São Paulo,Sudeste
+194,Cliente_194,Recife,Nordeste
+195,Cliente_195,Recife,Nordeste
+196,Cliente_196,Rio de Janeiro,Sudeste
+197,Cliente_197,Rio de Janeiro,Sudeste
+198,Cliente_198,Porto Alegre,Sul
+199,Cliente_199,Salvador,Nordeste
+200,Cliente_200,Curitiba,Sul
