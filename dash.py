@@ -241,14 +241,9 @@ with st.sidebar:
 
         st.markdown("---")
         st.markdown(
-            "<span style='font-size:0.75rem;color:#475569'>Case fictício — VarejoMax S.A.</span>",
+            "<span style='font-size:0.75rem;color:#94a3b8'>Desenvolvido por João Paulo R. de Souza</span>",
             unsafe_allow_html=True,
         )
-
-    st.markdown(
-        "<div class='sidebar-signature'>Desenvolvido por João Paulo R. de Souza</div>",
-        unsafe_allow_html=True,
-    )
 
 
 # ─────────────────────────────────────────────
