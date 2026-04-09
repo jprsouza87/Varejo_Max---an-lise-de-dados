@@ -45,6 +45,16 @@ st.markdown("""
         text-transform: uppercase;
         letter-spacing: 0.08em;
     }
+    .sidebar-signature {
+        margin-top: 1.5rem;
+        padding-top: 0.9rem;
+        border-top: 1px solid rgba(148, 163, 184, 0.18);
+        color: #94a3b8;
+        font-size: 0.72rem;
+        text-align: center;
+        letter-spacing: 0.02em;
+        opacity: 0.85;
+    }
 
     /* Fundo principal */
     .main {
@@ -234,6 +244,11 @@ with st.sidebar:
             "<span style='font-size:0.75rem;color:#475569'>Case fictício — VarejoMax S.A.</span>",
             unsafe_allow_html=True,
         )
+
+    st.markdown(
+        "<div class='sidebar-signature'>Desenvolvido por João Paulo R. de Souza</div>",
+        unsafe_allow_html=True,
+    )
 
 
 # ─────────────────────────────────────────────
